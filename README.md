@@ -10,12 +10,12 @@ I'm interested in data engineering, backend development and applied AI.
 
 | Project | What it does |
 | --- | --- |
-| [RepoTrail](https://github.com/PuravDesai004/RepoTrail) | Gives developers and coding agents traceable repository context, source references and committed-change analysis through a CLI, Python API and MCP server. Includes an installable Codex/Claude Code skill and optional AI explanations. |
-| [MobilityOps](https://github.com/PuravDesai004/MobilityOps) | A Python, DuckDB and dbt pipeline that processed 11.08 million NYC taxi source records, with validation, quarantine handling, replay checks and a Streamlit dashboard. |
-| [AI Resume Analyser](https://github.com/PuravDesai004/AI_Resume_Analyser) | A FastAPI application for resume-to-job ranking, ESCO-grounded skill-gap analysis and hybrid RAG chat with source references. |
-| [GridCast](https://github.com/PuravDesai004/GridCast) | A 24-hour electricity demand forecasting pipeline using DuckDB, scikit-learn and MLflow, with chronological evaluation, versioned forecasts and a historical Streamlit dashboard. |
-| [Olist 2.0](https://github.com/PuravDesai004/olist-ecommerce-analysis) | PostgreSQL reporting and a three-page Power BI dashboard covering sales, customer retention, RFM segmentation and delivery performance. |
-| [A/B testing engine](https://github.com/PuravDesai004/A-B-Testing) | A Python and FastAPI engine for experiment analysis, including confidence intervals, sequential corrections, CUPED and diagnostic checks. |
+| [RepoTrail](https://github.com/PuravDesai004/RepoTrail) | Gives coding agents traceable repository context, source references, and change analysis through a CLI, Python API, and MCP server. |
+| [MobilityOps](https://github.com/PuravDesai004/MobilityOps) | Processes NYC taxi data with Python, DuckDB, and dbt, with validation, quarantine handling, replay checks, and a Streamlit dashboard. |
+| [GridCast](https://github.com/PuravDesai004/GridCast) | Builds 24-hour electricity demand forecasts with chronological evaluation and a historical Streamlit dashboard. |
+| [AI Resume Analyser](https://github.com/PuravDesai004/AI_Resume_Analyser) | Compares résumés with job descriptions using skill-gap analysis, ranking, and retrieval-based chat. |
+| [SupportLens](https://github.com/PuravDesai004/SupportLens) | Classifies banking-support questions into BANKING77 intents and flags uncertain predictions for review. |
+| [NotionMind internship](https://github.com/PuravDesai004/NotionMind-Internship) | Uses multiple agents to analyze synthetic telehealth data and produce Markdown and HTML reports. |
 
 ## Internship experience
 
