@@ -50,12 +50,19 @@ Worked on a multi-agent telehealth analytics system. Four Claude-powered agents 
 
 - Google AI Essentials — Coursera (98%).
 - Building with Claude API — Anthropic.
+- Introduction to Model Context Protocol — Anthropic.
+- Model Context Protocol: Advanced Topics — Anthropic.
 
 ### SQL
 
 - SQL (Basic) — HackerRank.
 - SQL (Intermediate) — HackerRank.
 - 4-star SQL badge — HackerRank.
+
+### Data engineering
+
+- [Databricks Fundamentals Accreditation](https://credentials.databricks.com/216fc457-ad72-418b-8254-e206b41f891c#acc.V5LfSpJ4) — Databricks Academy.
+- dbt Fundamentals — dbt Labs.
 
 ### Snowflake Hands-On Essentials
 
